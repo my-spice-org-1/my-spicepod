@@ -1,0 +1,4 @@
+name: my-spice-org-1/my-spicepod
+description: my spicepod
+version: v1beta1
+kind: Spicepod
